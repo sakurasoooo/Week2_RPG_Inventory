@@ -1,0 +1,7 @@
+﻿TO DO:
+* Figure out why SPACE also sometimes takes other items from inventory (not just sword!)
+* Suns to simple enemies that do damage if inner trigger touched (no movement yet)
+* Killed sun = match
+* Match + "wood" item (attribute instead of tag?) = "flame"
+* Player collide w/flame = damage
+
